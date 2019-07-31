@@ -1,0 +1,23 @@
+{
+  "name": "filters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jquery-ui-dist": "^1.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Katherineslove/filters.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Katherineslove/filters/issues"
+  },
+  "homepage": "https://github.com/Katherineslove/filters#readme"
+}
